@@ -4,4 +4,6 @@ spring:
 
 spring:
   datasource:
-    
+    url : jdbc:postgresql://localhost:5432/fitness-micro-user
+    username: postgres
+    password: Ashish@853
