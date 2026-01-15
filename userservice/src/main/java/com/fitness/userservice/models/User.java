@@ -34,4 +34,6 @@ public class User {
 
     @UpdateTimestamp
     private LocalDateTime updatedAt;
+
+
 }
